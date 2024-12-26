@@ -1,0 +1,14 @@
+//List the data requirements, formulas, and algorithm for a program that converts a volume from quarts to liters.
+
+//algorithm 
+//1. Get the quartz input from user
+//2. Convert the input to litres
+    //2.1 1 litre is 0.946353 times 1 quartz
+//3. Display litres 
+
+//input 
+//quarts amount
+
+//output
+//litres amount
+
